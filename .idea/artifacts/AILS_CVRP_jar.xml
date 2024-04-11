@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AILS-CVRP:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AILS_CVRP_jar</output-path>
+    <root id="archive" name="AILS-CVRP.jar">
+      <element id="module-output" name="AILS-CVRP" />
+    </root>
+  </artifact>
+</component>
